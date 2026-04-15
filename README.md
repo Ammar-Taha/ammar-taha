@@ -3,7 +3,7 @@ Hi, I’m Ammar<br><br>Software Engineer & Technical Publishing Professional.<br
 
 ## Connect with me
 [![Website](https://img.shields.io/badge/ammartaha.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ammartaha.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn%20%7C%20Ammar%20Taha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ammartahamohamedy/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn%20%7C%20Ammar%20Taha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ammar-taha/)
 
 ## Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
